@@ -1,0 +1,22 @@
+{
+  "name": "playwright-demo",
+  "version": "1.0.0",
+  "description": "Play with this tool Playwright。玩一下这个前端自动化工具。",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiyoudiao/playwright-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiyoudiao/playwright-demo/issues"
+  },
+  "homepage": "https://github.com/aiyoudiao/playwright-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.0"
+  }
+}
